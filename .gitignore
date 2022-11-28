@@ -1,2 +1,4 @@
 # Symlinks
 *.ln
+# JupyterLab checkpoint files
+.ipynb*
