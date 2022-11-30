@@ -2,3 +2,5 @@
 *.ln
 # JupyterLab checkpoint files
 .ipynb*
+# JupyterLab workspace
+*.jupyterlab-workspace
