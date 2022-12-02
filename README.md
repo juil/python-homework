@@ -5,7 +5,9 @@ Unit 2 Assignment by Juil Yoon
 
 Take file of PNLs, calculate and output PNL, average PNL change, biggest increase in PNL, and biggest decrease in PNL.
 
-`resources/budget_data.csv`
+**Python JupyterLab File:** [PyBank/main.ipynb](PyBank/main.ipynb)
+
+**Data File:** [PyBank/resources/budget_data.csv](PyBank/resources/budget_data.csv)
 
 ### Expected Output
 
