@@ -21,12 +21,12 @@ Take file of PNLs, calculate and output PNL, average PNL change, biggest increas
 
 	Financial Analysis
 	------------------------------
-	Total Months: 85
-	Total: $37,514,694.00
-	Average Change: $-2,342.68
+	Total Months: 86
+	Total: $38,382,578.00
+	Average Change: $-2,315.12
 	Greatest Increase in Profits: Feb-2012 ($1,926,159.00)
 	Greatest Decrease in Profits: Sep-2013 ($-2,196,167.00)
 
 ### Notes
 
-- Total months should be 86
+- Added commas and 2 decimal places for currency display
