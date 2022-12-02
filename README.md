@@ -29,6 +29,8 @@ Take file of PNLs, calculate and output PNL, average PNL change, biggest increas
 	Greatest Increase in Profits: Feb-2012 ($1,926,159.00)
 	Greatest Decrease in Profits: Sep-2013 ($-2,196,167.00)
 
+[analysis.txt](PyBank/analysis.txt)
+
 ### Notes
 
 - Added commas and 2 decimal places for currency display
